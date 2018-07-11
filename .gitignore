@@ -1,0 +1,5 @@
+/app/APP_resources
+node_modules
+.idea
+.vscode
+platforms
